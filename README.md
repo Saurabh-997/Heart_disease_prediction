@@ -1,5 +1,5 @@
 # Heart_disease_prediction
-Analysis on a pre-prosessed dataset of cleveland predicting the heart disease presence and scailing the intensity.
+Analysis on a dataset of cleveland predicting the heart disease presence and scailing the intensity.
 To understand Dataset More Clearly, we have the following Information.
 1.	Age: Between 35 to 75.
 2.	Sex:  1 = male and 0 = female.
